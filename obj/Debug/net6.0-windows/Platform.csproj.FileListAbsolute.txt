@@ -1,0 +1,114 @@
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\bin\Debug\net6.0-windows\Platform.exe
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\bin\Debug\net6.0-windows\Platform.deps.json
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\bin\Debug\net6.0-windows\Platform.runtimeconfig.json
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\bin\Debug\net6.0-windows\Platform.dll
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\bin\Debug\net6.0-windows\ref\Platform.dll
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\bin\Debug\net6.0-windows\Platform.pdb
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\Platform_MarkupCompile.cache
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\Platform_MarkupCompile.lref
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\Platform.g.resources
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\Platform.AssemblyInfoInputs.cache
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\Platform.AssemblyInfo.cs
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\Platform.csproj.CoreCompileInputs.cache
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\Platform.dll
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\ref\Platform.dll
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\Platform.pdb
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\Platform.genruntimeconfig.cache
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\Resourses\Colors.baml
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\Resourses\Styles.baml
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform\obj\Debug\net6.0-windows\Platform.csproj.AssemblyReference.cache
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.exe
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.deps.json
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.runtimeconfig.json
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.dll
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\ref\Platform.dll
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.pdb
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.csproj.AssemblyReference.cache
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform_MarkupCompile.cache
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform_MarkupCompile.lref
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Resourses\Colors.baml
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Resourses\Styles.baml
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.g.resources
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.AssemblyInfoInputs.cache
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.AssemblyInfo.cs
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.csproj.CoreCompileInputs.cache
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.dll
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\ref\Platform.dll
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.pdb
+C:\Users\Inferite\Desktop\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.genruntimeconfig.cache
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.exe
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.deps.json
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.runtimeconfig.json
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.dll
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.pdb
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.csproj.AssemblyReference.cache
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform_MarkupCompile.cache
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform_MarkupCompile.lref
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Resourses\Colors.baml
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Resourses\Styles.baml
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.g.resources
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.AssemblyInfoInputs.cache
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.AssemblyInfo.cs
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.csproj.CoreCompileInputs.cache
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.dll
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\refint\Platform.dll
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.pdb
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.genruntimeconfig.cache
+C:\Users\андрей\OneDrive\Рабочий стол\Саня\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\ref\Platform.dll
+D:\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.exe
+D:\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.deps.json
+D:\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.runtimeconfig.json
+D:\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.dll
+D:\Platform (WPF)\Platform(Release)\bin\Debug\net6.0-windows\Platform.pdb
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.csproj.AssemblyReference.cache
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\App.g.cs
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform_MarkupCompile.cache
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform_MarkupCompile.lref
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Resourses\Colors.baml
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Resourses\Styles.baml
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.g.resources
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.GeneratedMSBuildEditorConfig.editorconfig
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.AssemblyInfoInputs.cache
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.AssemblyInfo.cs
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.csproj.CoreCompileInputs.cache
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.dll
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\refint\Platform.dll
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.pdb
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\Platform.genruntimeconfig.cache
+D:\Platform (WPF)\Platform(Release)\obj\Debug\net6.0-windows\ref\Platform.dll
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\Platform_MarkupCompile.cache
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\Platform_MarkupCompile.lref
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\Platform.dll
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\ref\Platform.dll
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\Platform.pdb
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\bin\Debug\net6.0-windows\Platform.exe
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\bin\Debug\net6.0-windows\Platform.deps.json
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\bin\Debug\net6.0-windows\Platform.runtimeconfig.json
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\bin\Debug\net6.0-windows\Platform.dll
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\bin\Debug\net6.0-windows\ref\Platform.dll
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\bin\Debug\net6.0-windows\Platform.pdb
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\Resourses\Colors.baml
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\Resourses\Styles.baml
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\Platform.g.resources
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\Platform.AssemblyInfoInputs.cache
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\Platform.AssemblyInfo.cs
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\Platform.csproj.CoreCompileInputs.cache
+C:\Users\Inferite\Desktop\GitProjects\PlatformTest-WPF-Net6.0-\obj\Debug\net6.0-windows\Platform.genruntimeconfig.cache
