@@ -50,13 +50,6 @@ namespace Platform
                 }
             }
 
-            //ViewModel.Instance.TextLogMap = string.Empty;
-            //foreach (RoutePoint point in listPoints)
-            //{
-            //    ViewModel.Instance.TextLogMap += "--------\n";
-            //    ViewModel.Instance.TextLogMap += String.Format("{0} {1} {2}\n",
-            //            point.ListPrevPoints.Count, point.PointId, point.ListNextPoints.Count);
-            //}
             return listPoints;
         }
 
