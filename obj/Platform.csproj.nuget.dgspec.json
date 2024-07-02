@@ -1,28 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Inferite\\Desktop\\GitProjects\\PlatformTest-WPF-Net6.0-\\Platform.csproj": {}
+    "C:\\Users\\Alex\\Desktop\\Git_projects\\PlatformTest-WPF-Net6.0-\\Platform.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Inferite\\Desktop\\GitProjects\\PlatformTest-WPF-Net6.0-\\Platform.csproj": {
+    "C:\\Users\\Alex\\Desktop\\Git_projects\\PlatformTest-WPF-Net6.0-\\Platform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Inferite\\Desktop\\GitProjects\\PlatformTest-WPF-Net6.0-\\Platform.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Git_projects\\PlatformTest-WPF-Net6.0-\\Platform.csproj",
         "projectName": "Platform",
-        "projectPath": "C:\\Users\\Inferite\\Desktop\\GitProjects\\PlatformTest-WPF-Net6.0-\\Platform.csproj",
-        "packagesPath": "C:\\Users\\Inferite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Inferite\\Desktop\\GitProjects\\PlatformTest-WPF-Net6.0-\\obj\\",
+        "projectPath": "C:\\Users\\Alex\\Desktop\\Git_projects\\PlatformTest-WPF-Net6.0-\\Platform.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alex\\Desktop\\Git_projects\\PlatformTest-WPF-Net6.0-\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft Visual Studio\\2022\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Inferite\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -38,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -49,10 +50,29 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -61,7 +81,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

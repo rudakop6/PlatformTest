@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AoJtjjQtpRXNwmhNt75p05SPqKg8tf+Cfch97b9858t7ehEAn/jlw+vmp5GbgAdyF5n15ZjQogbwIcRrPR//kA==",
+  "dgSpecHash": "oKGIyBoz2JelwDPNy6AoIX3jtWu2nh7kKFDP09GlnvN+Z4+rHODgUBpTJMWJ1sUTATUfMxix9WXd/iKi40ugww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Inferite\\Desktop\\GitProjects\\PlatformTest-WPF-Net6.0-\\Platform.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Git_projects\\PlatformTest-WPF-Net6.0-\\Platform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
